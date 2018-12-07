@@ -1,0 +1,64 @@
+adams,denver,broomfield,weld,morgan,washington,arapahoe
+alamosa,rio grande,conejos,costilla,huerfano,saguache
+arapahoe,adams,washington,elbert,douglas,jefferson,denver
+archuleta,la plata,hinsdale,mineral,rio grande,conejos
+baca,prowers,bent,las animas
+bent,las animas,otero,kiowa,prowers,baca
+boulder,gilpin,grand,larimer,weld,broomfield,jefferson
+broomfield,weld,boulder,jefferson,adams
+chaffee,gunnison,pitkin,lake,park,fremont,saguache
+cheyenne,kit carson,lincoln,kiowa
+clear creek,gilpin,grand,summit,park,jefferson
+conejos,costilla,alamosa,rio grande,archuleta
+costilla,conejos,alamosa,huerfano,las animas
+crowley,otero,kiowa,lincoln,pueblo
+custer,huerfano,pueblo,fremont,saguache
+delta,mesa,montrose,gunnison
+denver,arapahoe,jefferson,adams
+dolores,montezuma,san juan,san miguel
+douglas,jefferson,arapahoe,elbert,el paso,teller
+eagle,summit,grand,routt,garfield,pitkin,lake
+elbert,arapahoe,douglas,el paso,lincoln
+el paso,elbert,douglas,teller,fremont,pueblo,lincoln
+fremont,teller,park,chaffee,saguache,custer,pueblo,el paso
+garfield,rio blanco,mesa,eagle,routt
+gilpin,boulder,jefferson,clear creek,grand
+grand,jackson,routt,eagle,summit,clear creek,gilpin,boulder,larimer
+gunnison,pitkin,mesa,delta,montrose,ouray,hinsdale,saguache,chaffee
+hinsdale,mineral,saguache,gunnison,ouray,san juan,la plata,archuleta
+huerfano,las animas,pueblo,custer,saguache,alamosa,costilla
+jackson,routt,grand,larimer
+jefferson,boulder,broomfield,adams,denver,arapahoe,douglas,park,clear creek,gilpin
+kiowa,cheyenne,lincoln,crowley,otero,bent,prowers
+kit Carson,yuma,washington,lincoln,cheyenne
+lake,chaffee,pitkin,eagle,summit,park
+la plata,montezuma,san juan,hinsdale,archuleta
+larimer,jackson,grand,boulder,weld
+las animas,costilla,huerfano,pueblo,otero,bent,baca
+lincoln,kit carson,washington,elbert,el paso,crowley,kiowa,cheyenne
+logan,weld,morgan,washington,yuma,phillips,segwick
+mesa,garfield,pitkin,gunnison,delta,montrose
+mineral,archuleta,hinsdale,saguache,rio grande
+moffat,routt,rio blanco
+montezuma,dolores,san juan,la plata
+montrose,mesa,delta,gunnison,ouray,san miguel
+morgan,logan,weld,adams,washington
+otero,las animas,pueblo,crowley,kiowa,bent
+ouray,montrose,san miguel,san juan,hinsdale,gunnison,
+park,teller,jefferson,clear creek,summit,lake,chaffee,fremont
+phillips,sedgwick,logan,yuma
+pitkin,eagle,garfield,mesa,gunnison,chaffee,lake
+prowers,kiowa,bent,baca
+pueblo,crowley,el paso,fremont,custer,huerfano,las animas,otero
+rio blanco,moffat,routt,garfield
+rio grande,saguache,mineral,archuleta,conejos,alamosa
+routt,moffat,rio blanco,garfield,eagle,grand,jackson
+saguache,chaffee,gunnison,hinsdale,mineral,rio grande,alamosa,huerfano,custer,fremont
+san juan,hinsdale,ouray,san miguel,dolores,montezuma,la plata
+san miguel,montrose,ouray,san juan,dolores
+sedgwick,logan,phillips
+summit,park,clear creek,grand,eagle,lake
+teller,el paso,douglas,jefferson,park,fremont
+washington,yuma,logan,morgan,adams,arapahoe,lincoln,kit carson
+weld,logan,morgan,adams,broomfield,boulder,larimer
+yuma,phillips,logan,washington,kit carson

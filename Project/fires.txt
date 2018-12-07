@@ -1,0 +1,3 @@
+alamosa 9
+denver 3
+montezuma 5
